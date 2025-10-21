@@ -1,4 +1,4 @@
-;here we need to load a value to the general purpose register 
+;here we need to load a value to the general purpose register (here used 0x20 GPR)
 ;and decrement it till zero 
 ;and an led needs to be turned on when ever there is an even value in that particular register 
 ; here we use the pin B0 as the output 
