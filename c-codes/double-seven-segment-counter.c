@@ -24,7 +24,7 @@ void main(void) {
    //binary for the 7-segment equivalent numbers
     while(1){unsigned char j=0;
         //begin counting 
-    while(j<10){ PORTC=ss[j];
+    while(j<10){ PORTC=ss[j];//move to next number
     unsigned char i=0;
     while(i<10){
     PORTB=ss[i];
