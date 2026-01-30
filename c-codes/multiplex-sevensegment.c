@@ -16,7 +16,8 @@
 #pragma config CP = OFF   
 #define _XTAL_FREQ 20000000
 #include <xc.h>
-#include"/home/ramlaksh/learnings/pic-library/DSP.h"
+#include"/home/ramlaksh/learnings/pic-library/DSP.h"//this is my own library you can able to see it in the pic library repo 
+//here we have used common cathode sevensegment displays
 void main(void) {
     TRISB=0x00;
     TRISC&=~(0x07);
