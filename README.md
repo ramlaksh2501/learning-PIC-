@@ -7,6 +7,7 @@ In this repository, you will find bare-metal programs, peripheral-level examples
 The tools used for this project are MPLAB X IDE for development, the XC8 compiler for compilation, and Proteus for simulation. Source files can be opened directly in MPLAB X IDE, compiled using XC8, and tested through Proteus simulations.
 
 This is an evolving repository, and new examples and libraries will be added continuously as the learning progresses.
+[My custom library that i use](https://github.com/ramlaksh2501/library-for-pic16f877a)
 
 Author: King  
 Learning Embedded Systems | Bare-Metal Programming Enthusiast
